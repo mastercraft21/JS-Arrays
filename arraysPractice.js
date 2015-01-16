@@ -6,6 +6,11 @@ var arr = [10,20,30];
 
   //Code Here
 
+var first = function (poop) {
+  return poop[0];
+}
+
+first(arr)
 
 //Next problem
 
